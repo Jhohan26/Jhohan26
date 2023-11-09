@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development (Fullstack) and Database...
 - 💻 I love using Linux because it's so fast and customizable...
 ---
-**the "J" is so cute and only takes up a little byte**
+The "J" is so cute and only takes up a little byte.
 
 <!---
 Jhohan26/Jhohan26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
